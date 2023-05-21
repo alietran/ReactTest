@@ -1,0 +1,50 @@
+ [
+  {
+    "tenSanPham": "iPhone 13 Pro",
+    "maSanPham": "IPH13PRO",
+    "namSanXuat": 2022,
+    "giaSanPham": 2000,
+    "hinhSanPham": "https://cdn.tgdd.vn/Products/Images/42/223602/iphone-13-blue-1-600x600.jpg",
+    "moTaSanPham": "iPhone 13 Pro là phiên bản cao cấp với màn hình OLED, camera chất lượng cao và hiệu năng mạnh mẽ."
+  },
+  {
+    "tenSanPham": "Samsung Galaxy S21 Ultra",
+    "maSanPham": "SGS21ULTRA",
+    "namSanXuat": 2021,
+    "giaSanPham": 1000,
+    "hinhSanPham": "https://cdn.tgdd.vn/Products/Images/42/234308/samsung-galaxy-s21-ultra-256gb-den-600x600-600x600.jpg",
+    "moTaSanPham": "Samsung Galaxy S21 Ultra là một sản phẩm hàng đầu của Samsung với màn hình Dynamic AMOLED và hệ thống camera đa năng."
+  },
+  {
+    "tenSanPham": "iPhone 12",
+    "maSanPham": "IPH12",
+    "namSanXuat": 2020,
+    "giaSanPham": 1500,
+    "hinhSanPham": "https://cdn.tgdd.vn/Products/Images/42/213031/iphone-12-tim-1-600x600.jpg",
+    "moTaSanPham": "iPhone 12 là một trong những sản phẩm phổ biến của Apple với thiết kế đẹp và hiệu năng ổn định."
+  },
+  {
+    "tenSanPham": "Samsung Galaxy Note 20",
+    "maSanPham": "SGNOTE20",
+    "namSanXuat": 2020,
+    "giaSanPham": 1800,
+    "hinhSanPham": "https://cdn.tgdd.vn/Products/Images/42/218355/samsung-galaxy-note-20-062220-122200-fix-600x600.jpg",
+    "moTaSanPham": "Samsung Galaxy Note 20 có bút S Pen và màn hình lớn, là sự lựa chọn cho người dùng yêu thích công nghệ và sáng tạo."
+  },
+  {
+    "tenSanPham": "iPhone SE",
+    "maSanPham": "IPHSE",
+    "namSanXuat": 2020,
+    "giaSanPham": 500,
+    "hinhSanPham": "https://cdn.tgdd.vn/Products/Images/42/230410/iphone-se-2020-trang-600x600-200x200.jpg",
+    "moTaSanPham": "iPhone SE là một phiên bản giá rẻ của Apple với hiệu năng tốt và thiết kế nhỏ gọn."
+  },
+  {
+    "tenSanPham": "Samsung Galaxy A52",
+    "maSanPham": "SGA52",
+    "namSanXuat": 2021,
+    "giaSanPham": 300,
+    "hinhSanPham": "https://cdn.tgdd.vn/Products/Images/42/228967/samsung-galaxy-a52-8gb-256gb-thumb-violet-600x600-200x200.jpg",
+    "moTaSanPham": "Samsung Galaxy A52 là một trong những sản phẩm tầm trung của Samsung với màn hình AMO"
+  }
+]
